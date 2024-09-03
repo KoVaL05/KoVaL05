@@ -30,7 +30,6 @@
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java&logoColor=white)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=cplusplus&logoColor=00599C)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=cplusplus&logoColor=00599C)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=cplusplus&logoColor=00599C)&nbsp;
 
 #### Tools & Technologies
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
