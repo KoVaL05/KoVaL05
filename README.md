@@ -29,6 +29,8 @@
 ![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=flutter)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java&logoColor=white)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=cplusplus&logoColor=00599C)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=cplusplus&logoColor=00599C)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=cplusplus&logoColor=00599C)&nbsp;
 
 #### Tools & Technologies
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
@@ -41,7 +43,6 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=KoVaL05&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KoVaL05&exclude_repo=your-repo-1&hide=Jupyter%20Notebook&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </p>
 
